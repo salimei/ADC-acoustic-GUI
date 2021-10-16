@@ -6,7 +6,7 @@ The goal was, intially, just the creation of a GUI for the acoustic-ADC project.
 | ------------- | ------------- |
 | serial_connection_try1.pde | GUI for visualization of sound sources |
 | serial_connection_oop.pde |  sound wave source visulization |
-| wavy_pde.pde | functionally the same as *serial_connection_oop.pd* | 
+| wavy_pde.pde | functionally the same as *serial_connection_oop.pde* | 
 
 ### serial_connection_try1.pde
 
